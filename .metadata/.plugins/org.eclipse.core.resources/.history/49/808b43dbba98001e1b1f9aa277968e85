@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Weather App</title>
+</head>
+<body>
+	<h1>Welcome to our Weather App!!</h1>
+	<form>
+		<input type="text" />
+		<button>Submit</button>
+	</form>
+</body>
+</html>
